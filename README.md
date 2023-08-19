@@ -1,6 +1,7 @@
 # CS156-Machine-Learning
 
 ![Alt text](image.png)
+
 _Note: Given the large file size of the notebooks, please view the Jupyter Notebooks in "Code" mode._
 
 A collection of substantial projects I completed for the CS156 Machine Learning course. In this course, students were free to choose the topic of each project, as long as it covered one of the models taught in class. I chose to explore the following:
